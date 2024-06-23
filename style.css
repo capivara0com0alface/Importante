@@ -67,8 +67,13 @@ font-size: medium;
         text-align: center;
         background-color: #D31B7F
     }
-    
+
 }
 @media screen and (min-width: 1700px){
-    
+    .topo {
+        display: flex;
+        padding: 0px 579px;
+        text-align: center;
+        background-color: #D31B7F;
+    }
   }
