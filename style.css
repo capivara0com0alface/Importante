@@ -25,6 +25,10 @@ body{
     display: flex;
 }
 
+.text{
+    color: white;
+}
+
 img,p{
     padding: 10px;
   }
