@@ -36,6 +36,12 @@ body{
     color: white;
 }
 
+.pessoas{
+    width: 31%;
+    position: absolute;
+    left: 67%;
+}
+
 img,p{
     padding: 10px;
   }
