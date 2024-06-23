@@ -20,3 +20,11 @@ body{
     height: 72px;
     padding: 12px;
 }
+
+.star{
+    display: flex;
+}
+
+img,p{
+    padding: 10px;
+  }
