@@ -26,6 +26,12 @@ body{
 
 }
 
+.trela{
+    width: 2%;
+    height: 1%;
+    padding: 51px;
+}
+
 .text{
     color: white;
 }
