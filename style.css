@@ -53,3 +53,9 @@ body{
     font-style: normal;
 font-size: medium;
 }
+
+.calça{
+    width: 10%;
+    position: absolute;
+    left: 10%;
+}
