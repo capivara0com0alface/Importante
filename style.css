@@ -51,7 +51,7 @@ body{
 .fonte{
     font-family: "Germania One", system-ui;
     font-style: normal;
-
+font-size: medium;
 img,p{
     padding: 10px;
   }
