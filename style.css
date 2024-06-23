@@ -10,11 +10,13 @@ body{
 }
 
 .cachecol{
-    width: 155px;
+    width: 131px;
     height: 81px;
+    padding: 12px;
 }
 
 .touca{
     width: 73px;
     height: 72px;
+    padding: 12px;
 }
